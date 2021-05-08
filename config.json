@@ -10164,7 +10164,7 @@
         "filename":"FragmentShader.glsl",
         "size":796,
         "hash":"8f4c19f7831235bc019c41f57124ecf7",
-        "url":"files/assets/29533045/1/FragmentShader.glsl"
+        "url":"files/assets/FragmentShader.glsl"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14759,7 +14759,7 @@
         "filename":"Death-Impact.mp3",
         "size":47196,
         "hash":"456838d75ab275c4318ac2ad92f8bb6d",
-        "url":"files/assets/29816821/1/Death-Impact.mp3"
+        "url":"files/assets/Character/Sound/Death-Impact.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -14857,7 +14857,7 @@
         "filename":"Whoosh.mp3",
         "size":8304,
         "hash":"9e1cddffd06954d88ca6569a40c22325",
-        "url":"files/assets/29817356/1/Whoosh.mp3"
+        "url":"files/assets/Character/Sound/Whoosh.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18514,7 +18514,7 @@
         "filename":"FlyBy-1.mp3",
         "size":8064,
         "hash":"3d668668bc32443894eb1ba57f9c71a3",
-        "url":"files/assets/30256630/1/FlyBy-1.mp3"
+        "url":"files/assets/Weapon/FlyBy-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18536,7 +18536,7 @@
         "filename":"FlyBy-3.mp3",
         "size":8832,
         "hash":"3e723beec6da8aef79087791caa457f8",
-        "url":"files/assets/30256631/1/FlyBy-3.mp3"
+        "url":"files/assets/Weapon/FlyBy-3.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -18558,7 +18558,7 @@
         "filename":"FlyBy-2.mp3",
         "size":14496,
         "hash":"c965fe86414ed7ad8f2bd0952e53d12f",
-        "url":"files/assets/30256632/1/FlyBy-2.mp3"
+        "url":"files/assets/Weapon/FlyBy-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -23689,7 +23689,7 @@
         "filename":"Explosion-1.mp3",
         "size":49248,
         "hash":"9161ce86a67be614d9e157c1337f2f3a",
-        "url":"files/assets/30563922/1/Explosion-1.mp3"
+        "url":"files/assets/Weapon/Explosion-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26108,7 +26108,7 @@
         "filename":"Whoosh-Small.mp3",
         "size":6096,
         "hash":"61bc697d63dfec6e422caf1192e340ea",
-        "url":"files/assets/30609582/1/Whoosh-Small.mp3"
+        "url":"files/assets/Character/Sound/Whoosh-Small.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26130,7 +26130,7 @@
         "filename":"Epic-Loop.mp3",
         "size":104909,
         "hash":"3cbf09c662cffc695234a6892be175ec",
-        "url":"files/assets/30629511/1/Epic-Loop.mp3"
+        "url":"files/assets/Gui/Shop/Epic-Loop.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26390,7 +26390,7 @@
         "filename":"Epic-Result.mp3",
         "size":262848,
         "hash":"47b818e919ae24fccbdcc66ecd935999",
-        "url":"files/assets/30641434/1/Epic-Result.mp3"
+        "url":"files/assets/Gui/Shop/Epic-Result.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26434,7 +26434,7 @@
         "filename":"fantastic.mp3",
         "size":16927,
         "hash":"b0a38b37aa04aa6a3a49fff167ac67b7",
-        "url":"files/assets/30644965/1/fantastic.mp3"
+        "url":"files/assets/Character/Lilium/Sound/fantastic.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -26586,7 +26586,7 @@
         "filename":"Chat-Notification.mp3",
         "size":6720,
         "hash":"ae15aeb3fe7968391b84a2b8e0851d56",
-        "url":"files/assets/30645033/1/Chat-Notification.mp3"
+        "url":"files/assets/Gui/Chat-Notification.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27328,7 +27328,7 @@
         "filename":"Headshot.mp3",
         "size":18936,
         "hash":"75c25726ef342ccf03308f26c913d93c",
-        "url":"files/assets/30727289/1/Headshot.mp3"
+        "url":"files/assets/Gui/Headshot.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27458,7 +27458,7 @@
         "filename":"Ticking-Timer.mp3",
         "size":24658,
         "hash":"ee4909a0f60198401af83d53348c1b11",
-        "url":"files/assets/30748699/1/Ticking-Timer.mp3"
+        "url":"files/assets/Gui/Ticking-Timer.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -27642,7 +27642,7 @@
         "filename":"catch-that.mp3",
         "size":16683,
         "hash":"89f67198d8ecbde9994cd8761c6e87d1",
-        "url":"files/assets/30838434/1/catch-that.mp3"
+        "url":"files/assets/Character/Lilium/Sound/catch-that.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30159,7 +30159,7 @@
         "filename":"Ricochet-2.mp3",
         "size":27450,
         "hash":"caa171fafb820cb6eed4e3f3edd01cb6",
-        "url":"files/assets/30933154/1/Ricochet-2.mp3"
+        "url":"files/assets/Weapon/Ricochet-2.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30181,7 +30181,7 @@
         "filename":"Ricochet-1.mp3",
         "size":21394,
         "hash":"9142b3a072ceacebae74a4243a2e87c0",
-        "url":"files/assets/30933155/1/Ricochet-1.mp3"
+        "url":"files/assets/Weapon/Ricochet-1.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30246,7 +30246,7 @@
         "filename":"Deep-Whoosh.mp3",
         "size":76128,
         "hash":"dcdb4e571e5bc59270e51c590c28f2e3",
-        "url":"files/assets/30959798/1/Deep-Whoosh.mp3"
+        "url":"files/assets/Character/Sound/Deep-Whoosh.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30335,7 +30335,7 @@
         "variants":{
           
         },
-        "url":"files/assets/30964398/1/Scope_Texture.png"
+        "url":"files/assets/Weapon/Sniper/Scope_Texture.png"
       },
       "region":"eu-west-1",
       "i18n":{
@@ -30477,7 +30477,7 @@
         "filename":"Waterfall.mp3",
         "size":80247,
         "hash":"fd596f4bf27e1912ce706cc8c940fb9c",
-        "url":"files/assets/30975155/1/Waterfall.mp3"
+        "url":"files/assets/Map/Waterfall.mp3"
       },
       "region":"eu-west-1",
       "i18n":{
